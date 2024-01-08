@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.0 (2024-01-08)
+
+
+### Features
+
+* handle delete and create-update events ([b7659f3](https://github.com/olavurellefsen/flowcore-hugskotid-organization-adapter/commit/b7659f3651e2a6d6f2b07183199671b2de7c549b))
+
 ## [2.0.0](https://github.com/flowcore-io/nodejs-typescript-transformer-example/compare/v1.3.1...v2.0.0) (2023-10-24)
 
 
