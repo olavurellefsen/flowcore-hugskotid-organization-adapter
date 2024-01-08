@@ -16,7 +16,7 @@ export default async function (input: Input) {
   console.info(`The event type is ${input.eventType} and the organization has organizationid=${input.payload.organizationid}`);
   if (input.eventType === "delete") {
     return {
-      contactid: input.payload.organizationid
+      organizationid: input.payload.organizationid
     };
   }
   return {
