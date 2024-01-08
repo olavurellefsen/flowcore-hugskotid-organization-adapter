@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/olavurellefsen/flowcore-hugskotid-organization-adapter/compare/v1.0.0...v1.0.1) (2024-01-08)
+
+
+### Bug Fixes
+
+* organizationid instead of contactid ([7c475ca](https://github.com/olavurellefsen/flowcore-hugskotid-organization-adapter/commit/7c475ca7faea351cdf2b26a35f267c10efcd58fe))
+
 ## 1.0.0 (2024-01-08)
 
 
